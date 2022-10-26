@@ -14,4 +14,7 @@
     color: rgb(0, 0, 0);
     cursor: pointer;
 }
-
+.spResultado{
+    background: blanchedalmond;
+    color: black;
+}
